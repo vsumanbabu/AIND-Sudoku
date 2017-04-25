@@ -1,0 +1,7 @@
+#----------------------------------------
+# Basic set up instructions
+#----------------------------------------
+Download anaconda or miniconda
+source activate aind
+source deactivate
+
